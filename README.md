@@ -53,10 +53,11 @@ Results are saved to `results_WKA_robust_<seed>/`:
 ```bibtex
 @misc{QuantumASA,
   author = {Shenpei Wang and Hongju Gao and Baoxian Yao and Hairong Lian},
-  title = {Quantum Kernel Optimization with NSGA-III},
+  title = {An Adaptive Surrogate-Assisted Framework for Feature Selection in Quantum Support
+Vector Machines},
   year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/QuantumASA}
+  url = {https://github.com/WangLeo7/QuantumASA}
 }
 ```
 
