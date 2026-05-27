@@ -1,4 +1,5 @@
-# 基于NSGA-III的量子核优化
+# An Adaptive Surrogate-Assisted Framework for Feature Selection in Quantum Support
+Vector Machines
 
 使用NSGA-III多目标进化算法优化量子核的框架。
 
@@ -45,10 +46,11 @@ python src/ASA.py <种子>
 ```bibtex
 @misc{QuantumASA,
   author = {Shenpei Wang and Hongju Gao and Baoxian Yao and Hairong Lian},
-  title = {Quantum Kernel Optimization with NSGA-III},
+  title = {An Adaptive Surrogate-Assisted Framework for Feature Selection in Quantum Support
+Vector Machines},
   year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/QuantumASA}
+  url = {https://github.com/WangLeo7/QuantumASA}
 }
 ```
 
