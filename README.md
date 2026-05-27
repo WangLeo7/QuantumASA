@@ -1,4 +1,5 @@
-# Quantum Kernel Optimization with NSGA-III
+# An Adaptive Surrogate-Assisted Framework for Feature Selection in Quantum Support
+Vector Machines
 
 A framework for optimizing quantum kernels using NSGA-III multi-objective evolutionary algorithm.
 
