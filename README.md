@@ -26,7 +26,7 @@ python src/ASA.py <seed>
 
 **Example:**
 ```bash
-python src/INS_ASA_breast_WKA.py 0
+python src/ASA.py 0
 ```
 
 ## Configuration
