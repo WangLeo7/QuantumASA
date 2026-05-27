@@ -1,0 +1,15 @@
+# Core dependencies
+numpy>=1.21.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# Quantum computing
+qiskit>=0.45.0
+qiskit-machine-learning>=0.7.0
+
+# Data loading
+torchvision>=0.13.0
+
+# Parallel and storage
+joblib>=1.1.0
+h5py>=3.6.0
